@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# NLP-Work
-Course projects and other work in the field of Natural Language Processing (NLP).
-=======
 # CS 601.471/671: Self-supervised Models
 ## Homework 1: Text Classification with PyTorch and Word Embeddings
 
