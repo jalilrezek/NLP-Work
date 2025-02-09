@@ -45,5 +45,3 @@ Running the entire script will train the model and generate evaluation charts.
 └── requirements.txt # Project dependencies
 ```
 I have also included sample charts showing the results when I ran the model myself.
-
->>>>>>> c00b894 (initial)
